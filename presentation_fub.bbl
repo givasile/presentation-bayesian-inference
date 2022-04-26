@@ -1,0 +1,189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{Cranmer30055}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0003024ea8011848862cbf896b544a27}{%
+           family={Cranmer},
+           familyi={C\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=874c99f840ac4124510f66c8e3c43f6f}{%
+           family={Brehmer},
+           familyi={B\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=832b9967410c05c324eec6e9b19da71e}{%
+           family={Louppe},
+           familyi={L\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences}%
+      }
+      \strng{namehash}{ba2736587ecb8b54e6f19add7e3d16f6}
+      \strng{fullhash}{ba2736587ecb8b54e6f19add7e3d16f6}
+      \strng{bibnamehash}{ba2736587ecb8b54e6f19add7e3d16f6}
+      \strng{authorbibnamehash}{ba2736587ecb8b54e6f19add7e3d16f6}
+      \strng{authornamehash}{ba2736587ecb8b54e6f19add7e3d16f6}
+      \strng{authorfullhash}{ba2736587ecb8b54e6f19add7e3d16f6}
+      \field{labelalpha}{CBL20}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many domains of science have developed complex simulations to describe phenomena of interest. While these simulations provide high-fidelity models, they are poorly suited for inference and lead to challenging inverse problems. We review the rapidly developing field of simulation-based inference and identify the forces giving additional momentum to the field. Finally, we describe how the frontier is expanding so that a broad audience can appreciate the profound influence these developments may have on science.There are no data associated with this paper.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{48}
+      \field{title}{The frontier of simulation-based inference}
+      \field{volume}{117}
+      \field{year}{2020}
+      \field{pages}{30055\bibrangedash 30062}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1073/pnas.1912789117
+      \endverb
+      \verb{eprint}
+      \verb https://www.pnas.org/content/117/48/30055.full.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/content/117/48/30055
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/content/117/48/30055
+      \endverb
+    \endentry
+    \entry{Ikonomov2020RobustOM}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d94fa0eb821a271eb57377bd8c17f481}{%
+           family={Ikonomov},
+           familyi={I\bibinitperiod},
+           given={Borislav},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ea6548816f80e57ab19e6bf808d1abf}{%
+           family={Gutmann},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima U.},
+           giveni={M\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b73796b4e0ccf2bd93cfb787210f132}
+      \strng{fullhash}{1b73796b4e0ccf2bd93cfb787210f132}
+      \strng{bibnamehash}{1b73796b4e0ccf2bd93cfb787210f132}
+      \strng{authorbibnamehash}{1b73796b4e0ccf2bd93cfb787210f132}
+      \strng{authornamehash}{1b73796b4e0ccf2bd93cfb787210f132}
+      \strng{authorfullhash}{1b73796b4e0ccf2bd93cfb787210f132}
+      \field{labelalpha}{IG20}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv}
+      \field{title}{Robust Optimisation Monte Carlo}
+      \field{volume}{abs/1904.00670}
+      \field{year}{2020}
+    \endentry
+    \entry{NIPS2015_a284df11}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1f90bcfee651b546ca1bc7bab33e55f6}{%
+           family={Meeds},
+           familyi={M\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=c294bbcb0687bdb5113cc4c4cd6ebad3}{%
+           family={Cortes},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5fa5574879f8e77bee73db4442b005f7}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=98056d9ddecda0076a31a183e3e69326}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0ef91066dee98e654f9aebd57da00647}{%
+           family={Sugiyama},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=36b98b7ab533936cf1b5716148de704f}{%
+           family={Garnett},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{fb700ef0195e6b6eb3da8f254b268ba5}
+      \strng{fullhash}{fb700ef0195e6b6eb3da8f254b268ba5}
+      \strng{bibnamehash}{fb700ef0195e6b6eb3da8f254b268ba5}
+      \strng{authorbibnamehash}{fb700ef0195e6b6eb3da8f254b268ba5}
+      \strng{authornamehash}{fb700ef0195e6b6eb3da8f254b268ba5}
+      \strng{authorfullhash}{fb700ef0195e6b6eb3da8f254b268ba5}
+      \strng{editorbibnamehash}{f981a0b37ac43bd0fc3784cbcce306be}
+      \strng{editornamehash}{f981a0b37ac43bd0fc3784cbcce306be}
+      \strng{editorfullhash}{95e40444732d7905041fa015b18cfa44}
+      \field{labelalpha}{MW15}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Optimization Monte Carlo: Efficient and Embarrassingly Parallel Likelihood-Free Inference}
+      \field{volume}{28}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://proceedings.neurips.cc/paper/2015/file/a284df1155ec3e67286080500df36a9a-Paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://proceedings.neurips.cc/paper/2015/file/a284df1155ec3e67286080500df36a9a-Paper.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
